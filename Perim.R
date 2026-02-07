@@ -1,6 +1,6 @@
-AreaCuadrado<-function(L){
+PerimetroCuadrado<-function(L){
   return(4*L)
 }
-AreaCirculo<-function(r){
-  return(pi*r^2)
+PerimetroCirculo<-function(r){
+  return(2*pi*r)
 }
